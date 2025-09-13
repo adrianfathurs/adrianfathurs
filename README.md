@@ -1,11 +1,7 @@
-## Hi there 👋
-
 # Hi there 👋
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=adrianfathurs&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianfathurs&layout=compact&theme=tokyonight)
-
-![Metrics](https://raw.githubusercontent.com/adrianfathurs/adrianfathurs/main/github-metrics.svg)
 
 
 <!--
